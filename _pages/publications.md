@@ -87,18 +87,15 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2208.11180" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/zhenglisec/Multi-Exit-Privacy" class="btn--code" target="_blank">code</a>
 
-### <span style="color:rgb(39, 117, 182)">Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models
-</span>
+### <span style="color:rgb(39, 117, 182)">Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models</span>
 <font size="3">Xinlei He, <b>Zheng Li</b>, Weilin Xu, Cory Cornelius, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2208.10445" class="btn--arxiv" target="_blank">arxiv</a>
 
-### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against Text-to-image Generation Models
-</span>
+### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against Text-to-image Generation Models</span>
 <font size="3">Yixin Wu, Ning Yu, <b>Zheng Li</b>, Michael Backes, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2210.00968" class="btn--arxiv" target="_blank">arxiv</a>
 
-### <span style="color:rgb(39, 117, 182)">Backdoor Attacks in the Supply Chain of Masked Image Modeling
-</span>
+### <span style="color:rgb(39, 117, 182)">Backdoor Attacks in the Supply Chain of Masked Image Modeling</span>
 <font size="3">Xinyue Shen, Xinlei He, <b>Zheng Li</b>, Yun Shen, Michael Backes, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2210.01632" class="btn--arxiv" target="_blank">arxiv</a>
 
