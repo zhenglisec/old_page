@@ -6,11 +6,11 @@ main:
   #- title: "Talks"
   #  url: /talks/
 
-- title: "Teaching"
-  url: /teaching/
+# - title: "Teaching"
+#   url: /teaching/
 
-- title: "Clustr"
-  url: /clustr/
+# - title: "Clustr"
+#   url: /clustr/
     
   #- title: "Portfolio"
   #  url: /portfolio/
