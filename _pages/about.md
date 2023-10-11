@@ -15,6 +15,14 @@ I am currently a postdoc at [CISPA Helmhltz Center for Information Security](htt
 
 My general research interest is Trustworthy Machine Learning (Privacy, Security, and Safety); Most of my work has concentrated on analyzing the vulnerability of machine learning models to various attacks, e.g., privacy attacks (MIA and AIA)), backdoor attacks and data poison attacks.
 
+## Experiences & Education 
+
+- [2023.11 – current] PostDoc at CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
+- [2022.07 – 2022.10] Research Intern at Bell Lab. hosted by Ruichuan Chen.
+- [2021.02 – 2023.10] Ph.D. in Computer Science, CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
+- [2017.09 – 2020.06] Master in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
+- [2013.09 – 2017.06] Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
+
 ## News
 - [10/2023] I have successfully passed my Ph.D. defense!
 - [09/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in USENIX Security 2024!
