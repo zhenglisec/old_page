@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am currently a postdoc at [CISPA Helmhltz Center for Information Security](https://cispa.de/), supervised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to that, I obtained my PhD (2023) degree from [CISPA Helmhltz Center for Information Security](https://cispa.de/) under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my bachelor (2017) and master (2020) degrees from [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Shanqing Guo](https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm).
+I am currently a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/), supervised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to that, I obtained my Ph.D. (2023) degree from [CISPA Helmholtz Center for Information Security](https://cispa.de/) under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my bachelor (2017) and master (2020) degrees from [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Shanqing Guo](https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm).
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 - [04/2023] One paper titled “Data Poisoning Attacks Against Multimodal Encoders” got accepted in ICML 2023!
 - [12/2022] One paper titled "Backdoor Attacks Against Dataset Distillation" got accepted in NDSS 2023!
 - [9/2022] One paper titled "UnGANable: Defending Against GAN-based Face Manipulation" got accepted in USENIX Security 2023!
-- [7/2022] I start an internship at Bell Lab!
+- [7/2022] I started an internship at Bell Lab!
 - [4/2022] One paper titled "Auditing Membership Leakages of Multi-Exit Networks" got accepted in CCS 2022!
 - [3/2021] One paper titled "Membership Leakage in Label-Only Exposures" got accepted in CCS 2021!
 - [8/2019] One paper titled "How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN" got accepted in ACSAC 2019!
