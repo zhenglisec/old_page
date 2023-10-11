@@ -13,7 +13,7 @@ I am currently a postdoc at [CISPA Helmhltz Center for Information Security](htt
 
 ## Research Interests
 
-My general research interest is Trustworthy Machine Learning (Privacy, Security, and Safety). Most of my work has concentrated on analyzing the vulnerability of machine learning models to various attacks, e.g., privacy attacks (MIA and AIA)), backdoor attacks, and data poison attacks. I am also interested in providing technical solutions against unethical AI systems.
+My research centers on Trustworthy Machine Learning (Privacy, Security, and Safety), especially analyzing machine learning model vulnerabilities, including privacy attacks (MIA and AIA), backdoors, and data poison attacks. Additionally, I work on technical solutions against unethical AI systems.
 
 ## Experiences & Education 
 
