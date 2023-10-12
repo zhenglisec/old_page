@@ -77,6 +77,10 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2301.01197" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/liuyugeng/baadd" class="btn--code" target="_blank">code</a>
 
+### <span style="color:rgb(39, 117, 182)">Watermarking Diffusion Model</span>
+<font size="3">Yugeng Liu, <b>Zheng Li</b>, Michael Backes, Yun Shen, Yang Zhang;</font>
+<a href="https://arxiv.org/abs/2305.12502" class="btn--arxiv" target="_blank">arxiv</a>
+
 
 <h2 id='2022'>2022</h2>
 
