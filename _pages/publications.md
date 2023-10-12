@@ -81,6 +81,9 @@ a { TEXT-DECORATION:none }
 <font size="3">Yugeng Liu, <b>Zheng Li</b>, Michael Backes, Yun Shen, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2305.12502" class="btn--arxiv" target="_blank">arxiv</a>
 
+### <span style="color:rgb(39, 117, 182)">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</span>
+<font size="3">Yihan Ma, Zhengyu Zhao, Xinlei He, <b>Zheng Li</b>, Michael Backes, Yang Zhang;</font>
+<a href="https://arxiv.org/abs/2306.07754" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2022'>2022</h2>
 
