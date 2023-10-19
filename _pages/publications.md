@@ -40,10 +40,6 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
-### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
-<font size="3">Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;</font>
-<a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
-
 <h2 id='2023'>2023</h2>
 
 ### <span style="color:rgb(39, 117, 182)">UnGANable: Defending Against GAN-based Face Manipulation</span>
@@ -88,6 +84,10 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</span>
 <font size="3">Yihan Ma, Zhengyu Zhao, Xinlei He, <b>Zheng Li</b>, Michael Backes, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2306.07754" class="btn--arxiv" target="_blank">arxiv</a>
+
+### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
+<font size="3">Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;</font>
+<a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2022'>2022</h2>
 
