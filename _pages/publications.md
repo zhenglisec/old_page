@@ -36,6 +36,13 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
 <font size="3"> Boyang Zhang, <b>Zheng Li</b>, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang;
 <i>USENIX Security 2024</i></font>
+<a href="https://www.usenix.org/system/files/sec24summer-prepub-617-zhang-boyang.pdf" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2310.12665" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/SecurityNet-Research/SecurityNet" class="btn--code" target="_blank">code</a>
+
+### <span style="color:rgb(39, 117, 182)">Detection and Attribution of Models Trained on Generated Data</span>
+<font size="3"> Ge Han, Ahmed Salem, <b>Zheng Li</b>, Shanqing Guo, Michael Backes, Yang Zhang;
+<i>ICASSP 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
