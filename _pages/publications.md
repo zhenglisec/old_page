@@ -107,7 +107,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">FuzzGAN: A Generation-Based Fuzzing Framework For Testing Deep Neural Networks</span>
 <font size="3">Ge Han,, <b>Zheng Li</b>, Peng Tang, Chengyu Hu, Shanqing Guo;
-<i>HPCC 2019</i></font>
+<i>HPCC 2022</i></font>
 <a href="https://ieeexplore.ieee.org/document/10074689?denied=" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
